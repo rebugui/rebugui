@@ -1,5 +1,10 @@
-### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebugui&show_icons=true&theme=radical)
+👋
+
+
+<!--!
+stat 표시
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebugui&show_icons=true&theme=radical)
+-->
 
 <!--
 **rebugui/rebugui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
