@@ -1,9 +1,19 @@
-👋
+<h2>🌱 I’m currently learning ...</h2>
+<p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<p/>
+<br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebugui&show_icons=true&theme=radical)
 
-<!--!
-stat 표시
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebugui&show_icons=true&theme=radical)
+<!--
+<h2>🌱 I’m currently learning ...</h2>
+
+<h2>🥇 Lv. Production</h2>
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<h2>🥈 Lv. Project</h2>
+<h2>🥉 Lv. Toy Project</h2>
 -->
 
 <!--
@@ -19,4 +29,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🔭 현재 작업 중입니다 ...
+- 🌱 지금 배우고 있습니다 ...
+- 👯 콜라보레이션을 구하고 있습니다 ...
+- 🤔 도움을 찾고 있습니다 ...
+- 💬 에 대해 물어보세요 ...
+- 📫 연락 방법: ...
+- 😄 대명사: ...
+- ⚡ 재미있는 사실: ...
 -->
