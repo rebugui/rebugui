@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi there, I'm Uhyeok Yang! 👋</h2>
+  <h2>Hi there, I'm Rebugui! 👋</h2>
   <p><b>Security Researcher & Master's Student</b></p>
   <p>Information Security | Vulnerability Analysis | Tool Development</p>
 
