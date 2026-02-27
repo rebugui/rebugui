@@ -24,14 +24,6 @@
 <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-<br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rebugui&show_icons=true&theme=radical&bg_color=161b22&title_color=00ddff&icon_color=00ddff&text_color=c9d1d9&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebugui&layout=compact&theme=radical&bg_color=161b22&title_color=00ddff&icon_color=00ddff&text_color=c9d1d9&hide_border=true" height="180em" />
-</div>
 
 <br/>
 
