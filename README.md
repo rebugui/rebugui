@@ -1,33 +1,47 @@
-<div align="center">
-  <h2>Hi there, I'm Rebugui! 👋</h2>
-  <p><b>Security Researcher & Master's Student</b></p>
-  <p>Information Security | Vulnerability Analysis | Tool Development</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Welcome%20to%20Uhyeok's%20Space&fontSize=50&fontColor=ffffff&animation=twinkling)
 
-  <a href="mailto:uhyang03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-uhyang03@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <br/>
-  <br/>
+<div align="center">
+  
+  ### 🛡️ Vulnerability Analyst & AI-Security Researcher
+  
+  고려대학교 SW-AI 융합대학원에서 정보보안과 AI의 시너지를 연구하고 있으며, 취약점 분석 업무와 더불어 자동화 보안 툴 및 크롤러 개발에 푹 빠져 있습니다. (ISO/IEC 27001:2022 Lead Auditor)
+
 </div>
 
-### 🚀 Tech Stack
+## 🛠️ Tech Stack & Tools
 
-**Languages**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-
-**Security & Tools**
-<br/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white"/> <img src="https://img.shields.io/badge/Metasploit-333333?style=flat-square&logo=metasploit&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-
-**Environment & Database**
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,apple,linux,git,github,notion,bash,vscode&perline=8" />
+  </a>
+</div>
 
 <br/>
 
-### 🌱 Currently Learning & Interests
-- 🛡️ **Vulnerability Analysis & Penetration Testing**
-- 🤖 **LLM & AI Security**
-- 🛠️ **Automated Security Tool Development**
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rebugui&theme=radical&column=7&margin-w=15&no-frame=true" alt="rebugui's Trophies" />
+  </a>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rebugui/rebugui/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rebugui/rebugui/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rebugui/rebugui/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+## 📊 Detailed Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rebugui&show_icons=true&theme=transparent&hide_border=true&title_color=2ecc71&icon_color=2ecc71" alt="rebugui's GitHub stats" />
+</div>
