@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Welcome%20to%20Uhyeok's%20Space&fontSize=50&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Welcome%20to%20Rebugui%20Space&fontSize=50&fontColor=ffffff&animation=twinkling)
 
 <div align="center">
   
